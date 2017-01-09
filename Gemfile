@@ -3,10 +3,12 @@ source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5'
+
 gem 'devise', '~>3.2'
 gem 'milia', '~>1.0'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+gem 'bootstrap-datepicker-rails'
 gem 'stripe'
 gem 'carrierwave'
 gem 'mini_magick'
